@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: "Lianyang Codex Public Edition"
+message: "If you use this public archive, please cite it as below."
+type: dataset
+authors:
+  - family-names: "Yang"
+    given-names: "Lian"
+    name-particle: "Lian Yang / 莲羊"
+abstract: "A public, AI-readable archive for understanding Lian Yang's Mineral Pigment Art practice, public projects, terminology, and cultural context."
+keywords:
+  - Lian Yang
+  - 莲羊
+  - Mineral Pigment Art
+  - 岩彩
+  - Dunhuang
+  - Eastern mythology
+license: CC-BY-NC-ND-4.0
+version: "1.1"
+date-released: "2026-06-16"
