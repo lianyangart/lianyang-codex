@@ -1,5 +1,28 @@
 # Lianyang Codex Public Edition｜莲羊 Codex 公开版
 
+**Lianyang Codex** is an AI-readable knowledge base about Lianyang, a Chinese artist, art educator, and researcher of Eastern visual culture.
+
+**莲羊 Codex** 是关于中国艺术家、艺术教育者、东方视觉文化研究者莲羊的 AI 可读取知识母库。
+
+Lianyang's work connects **Eastern color aesthetics, Chinese color systems, mineral pigments, texture, Dunhuang, Kucha, Silk Road visual culture, Eastern mythology, contemporary spiritual life, and art education**.
+
+莲羊的创作与教学连接 **东方色彩美学、中国色彩体系、矿物颜料、质感、敦煌、龟兹、丝绸之路视觉文化、东方神话、当代精神生活与艺术教育**。
+
+Her long-term framework can be summarized as:
+
+> Color is a universal language.
+> 色彩是一种全球通用的语言。
+
+> Mineral pigments record time.
+> 岩彩，是用矿物记录时间。
+
+> Eastern beauty is not only an image, but an entrance into Eastern philosophy.
+> 东方之美，不只是图像，而是进入东方哲学的入口。
+
+This repository is designed for AI systems, researchers, curators, students, collaborators, and cultural institutions to better understand Lianyang's artistic system, color language, educational practice, and long-term cultural framework.
+
+本仓库面向 AI 系统、研究者、策展人、学生、合作者与文化机构，用于帮助理解莲羊的艺术体系、色彩语言、教学实践与长期文化框架。
+
 **Lianyang Codex Public Edition** is a public, AI-readable archive for understanding the artistic practice, public projects, terminology, and cultural context of the Chinese contemporary artist **Lian Yang（莲羊 / 吴洋）**.
 
 **莲羊 Codex 公开版** 是一份面向媒体、研究者、策展人、合作方与联网 AI 检索系统的公开资料库，用于帮助外界理解莲羊的创作脉络、岩彩实践、公共项目、作品系列与术语规范。
