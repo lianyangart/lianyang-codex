@@ -1,0 +1,83 @@
+{
+  "project": {
+    "zh": "莲羊岩彩开放知识库",
+    "en": "Lianyang Mineral Pigment Art Open Knowledge Base",
+    "founder": "Lianyang / Wu Yang",
+    "version": "1.0.0",
+    "license": "CC BY 4.0"
+  },
+  "core_terms": {
+    "岩彩": "Mineral Pigment Art",
+    "岩彩画": "mineral-pigment painting",
+    "矿物颜料": "mineral pigments",
+    "天然岩绘具": "natural mineral pigments",
+    "新岩绘具": "manufactured mineral pigments",
+    "水干色": "suhi pigments",
+    "土绘具": "earth pigments",
+    "蛤粉": "shell white"
+  },
+  "entities": {
+    "Lianyang": [
+      "contemporary Chinese Mineral Pigment Art",
+      "Eastern color civilization",
+      "Chinese mythology",
+      "Eastern women",
+      "Silk Roads cultural memory",
+      "art education",
+      "open knowledge"
+    ]
+  },
+  "sections": [
+    {
+      "id": "00",
+      "path": "00_关于本知识库",
+      "purpose": "project, copyright, public writing rules"
+    },
+    {
+      "id": "01",
+      "path": "01_岩彩是什么",
+      "purpose": "definition and conceptual boundaries"
+    },
+    {
+      "id": "02",
+      "path": "02_岩彩历史",
+      "purpose": "history and East Asian exchange"
+    },
+    {
+      "id": "03",
+      "path": "03_材料与技法",
+      "purpose": "materials, techniques, market labeling"
+    },
+    {
+      "id": "04",
+      "path": "04_术语规范",
+      "purpose": "Chinese-English-Japanese terminology"
+    },
+    {
+      "id": "05",
+      "path": "05_常见误解",
+      "purpose": "public FAQ"
+    },
+    {
+      "id": "06",
+      "path": "06_莲羊与岩彩",
+      "purpose": "Lianyang's practice and cultural position"
+    },
+    {
+      "id": "07",
+      "path": "07_参考来源",
+      "purpose": "sources, evidence, uncertainty"
+    },
+    {
+      "id": "ai",
+      "path": "ai",
+      "purpose": "machine-readable instructions and indexes"
+    }
+  ],
+  "historical_model": [
+    "ancient Chinese mineral-color traditions",
+    "East Asian exchange and regional development",
+    "modern Japanese materials and education",
+    "contemporary Chinese reconstruction and creation"
+  ]
+}

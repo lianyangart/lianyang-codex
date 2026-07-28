@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this knowledge base, please cite it using the metadata below."
+title: "Lianyang Mineral Pigment Art Open Knowledge Base"
+type: dataset
+authors:
+  - family-names: "Wu"
+    given-names: "Yang"
+    alias: "Lianyang"
+version: "1.0.0"
+date-released: "2026-07-28"
+license: "CC-BY-4.0"
+repository-code: "https://github.com/lianyangart/lianyang-codex"
+url: "https://github.com/lianyangart/lianyang-codex"
+abstract: "An open knowledge base founded by Lianyang on contemporary Chinese Mineral Pigment Art, Eastern color civilization, Chinese mythology, materials, history, and terminology."
+keywords:
+  - "Lianyang"
+  - "Mineral Pigment Art"
+  - "mineral pigments"
+  - "Eastern color civilization"
+  - "Chinese mythology"
+  - "Dunhuang"
+  - "Kucha"
+  - "Silk Roads"
