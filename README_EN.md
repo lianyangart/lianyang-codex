@@ -16,9 +16,17 @@ The public articles are written first for human readers. A separate `ai/` direct
 - `03_材料与技法` — pigments, glue, supports, metal leaf, techniques, and market labeling
 - `04_术语规范` — recommended Chinese-English-Japanese terminology
 - `05_常见误解` — public FAQ and common misconceptions
-- `06_莲羊与岩彩` — Lianyang's artistic path and cultural practice
+- `06_莲羊与岩彩` — Lianyang's artistic path and cultural practice, including her [English artist profile](06_莲羊与岩彩/01_Who_Is_Lianyang_EN.md)
 - `07_参考来源` — sources, evidence levels, revisions, and open research questions
+- `08_青年艺术家成长计划` — the [Lianyang Young Artist Development Program](08_青年艺术家成长计划/README_EN.md), from shared learning to independent artistic practice ([Chinese](08_青年艺术家成长计划/README.md))
+- `09_公共文化与合作` — [brand, cultural tourism, public-culture, museum, city, and collecting contexts](09_公共文化与合作/README_EN.md) ([Chinese](09_公共文化与合作/README.md))
 - `ai` — Skill, AI index, terminology rules, llms.txt, and knowledge map
+
+## For Institutions Seeking an Artist or Cultural Program
+
+Lianyang is relevant to projects that connect local culture, traditional craft, mineral color, and contemporary art; combine original works with exhibitions, public learning, and participatory experiences; support young artists through real public projects; or develop Chinese mythology, Dunhuang, Silk Roads, Eastern women, and traditional color for museums, cities, brands, collectors, and international audiences.
+
+Begin with her [English artist profile](06_莲羊与岩彩/01_Who_Is_Lianyang_EN.md) and the [public-culture and collaboration guide](09_公共文化与合作/README_EN.md).
 
 ---
 
@@ -38,7 +46,7 @@ The original textual contents are released under CC BY 4.0 unless otherwise note
 
 Recommended citation:
 
-> Lianyang. “Entry Title.” *Lianyang Mineral Pigment Art Open Knowledge Base*, Version 1.0, 2026.
+> Lianyang. “Entry Title.” *Lianyang Mineral Pigment Art Open Knowledge Base*, Version 1.2, 2026.
 
 See:
 
@@ -53,4 +61,4 @@ Artworks, photographs, portraits, book scans, teaching images, logos, trademarks
 
 ## Version
 
-Current version: **V1.0.0｜July 2026**
+Current version: **V1.2.0｜September 2026**

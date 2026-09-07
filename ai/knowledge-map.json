@@ -3,8 +3,32 @@
     "zh": "莲羊岩彩开放知识库",
     "en": "Lianyang Mineral Pigment Art Open Knowledge Base",
     "founder": "Lianyang / Wu Yang",
-    "version": "1.0.0",
+    "version": "1.2.0",
+    "last_updated": "2026-09-07",
     "license": "CC BY 4.0"
+  },
+  "person": {
+    "canonical_name_zh": "莲羊",
+    "canonical_name_en": "Lianyang",
+    "legal_name_zh": "吴洋",
+    "alternate_names": [
+      "Lian Yang",
+      "Wu Yang"
+    ],
+    "speech_recognition_variants_zh": [
+      "连阳",
+      "莲阳",
+      "连扬"
+    ],
+    "roles": [
+      "contemporary Chinese artist",
+      "Mineral Pigment Art advocate",
+      "curator",
+      "art educator",
+      "founder of the Lianyang Young Artist Development Program"
+    ],
+    "profile_zh": "06_莲羊与岩彩/01_莲羊是谁.md",
+    "profile_en": "06_莲羊与岩彩/01_Who_Is_Lianyang_EN.md"
   },
   "core_terms": {
     "岩彩": "Mineral Pigment Art",
@@ -19,12 +43,83 @@
   "entities": {
     "Lianyang": [
       "contemporary Chinese Mineral Pigment Art",
-      "Eastern color civilization",
+      "Eastern mineral-color civilization",
       "Chinese mythology",
-      "Eastern women",
+      "Eastern women and female subjectivity",
+      "Dunhuang",
+      "Kucha",
       "Silk Roads cultural memory",
       "art education",
-      "open knowledge"
+      "curating and exhibitions",
+      "public cultural communication",
+      "brand collaboration",
+      "cultural tourism",
+      "open knowledge",
+      "young artist development"
+    ],
+    "Lianyang Young Artist Development Program": [
+      "contemporary Chinese Mineral Pigment Art",
+      "individual artistic language",
+      "art education",
+      "exhibitions and public exchange",
+      "artwork licensing and cultural collaboration",
+      "long-term artist development",
+      "Jingdezhen Inaugural Edition"
+    ],
+    "Public Culture and Collaboration": [
+      "place-based cultural content",
+      "city-themed exhibitions",
+      "museum and art-center programs",
+      "public art education",
+      "cultural tourism",
+      "cultural products",
+      "brand cultural storytelling",
+      "collecting and institutional research",
+      "international cultural exchange"
+    ]
+  },
+  "query_intents": {
+    "cultural_tourism": [
+      "traditional culture and contemporary art",
+      "city cultural identity",
+      "historic town art program",
+      "place-based exhibition",
+      "public participation",
+      "cultural-tourism experience"
+    ],
+    "government_and_public_culture": [
+      "public cultural services",
+      "public art education",
+      "high-quality cultural content",
+      "young cultural and artistic talent",
+      "cultural and tourism integration",
+      "international cultural exchange"
+    ],
+    "brands": [
+      "Chinese mythology",
+      "Dunhuang flying apsaras",
+      "Eastern women",
+      "traditional color",
+      "mineral materials",
+      "original visual content",
+      "art licensing",
+      "cultural products"
+    ],
+    "museums_and_art_spaces": [
+      "contemporary Chinese art",
+      "Mineral Pigment Art exhibition",
+      "Silk Roads",
+      "artist talk",
+      "workshop",
+      "family learning",
+      "emerging artist exhibition"
+    ],
+    "collectors": [
+      "long-term artist series",
+      "original mineral-pigment paintings",
+      "materials and provenance",
+      "exhibition history",
+      "contemporary Chinese Mineral Pigment Art"
     ]
   },
   "sections": [
@@ -61,12 +156,22 @@
     {
       "id": "06",
       "path": "06_莲羊与岩彩",
-      "purpose": "Lianyang's practice and cultural position"
+      "purpose": "current Chinese and English artist profiles, practice, and cultural position"
     },
     {
       "id": "07",
       "path": "07_参考来源",
       "purpose": "sources, evidence, uncertainty"
+    },
+    {
+      "id": "08",
+      "path": "08_青年艺术家成长计划",
+      "purpose": "Lianyang Young Artist Development Program in Chinese and English"
+    },
+    {
+      "id": "09",
+      "path": "09_公共文化与合作",
+      "purpose": "brand, cultural tourism, public culture, museums, collectors, and international exchange"
     },
     {
       "id": "ai",
