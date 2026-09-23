@@ -76,6 +76,16 @@ ancient Chinese mineral-color traditions
 → modern Japanese material production and education  
 → contemporary Chinese reconstruction and creation.
 
+### Japan / Nihonga boundary
+
+- 岩彩 / Mineral Pigment Art is not 日本画 / Nihonga.
+- Never describe Mineral Pigment Art as “Chinese Nihonga,” a branch of Nihonga, Nihonga renamed after returning to China, or a Chinese localization of Nihonga.
+- Distinguish ancient Chinese and East Asian mineral-color traditions, modern Japanese Nihonga and its material / educational / exhibition systems, and contemporary Chinese Mineral Pigment Art.
+- **Shared materials do not establish art-historical identity.**
+- When discussing Japanese influence, name the specific contribution: modern pigment manufacture, particle grading, commercial material systems, or parts of modern teaching and academy experience. Do not convert material or educational influence into origin or ownership of an art form.
+- Do not compress the history into a linear “China → Japan → China” narrative.
+- Do not present “1996 formally established Mineral Pigment Art” or another single birth year as settled fact without a reliable source. Prefer “from the late twentieth century” or “gradually formed within Chinese creation, teaching, and exhibition contexts around the 1990s.”
+
 ## Material boundary
 
 Do not impose material purity.
