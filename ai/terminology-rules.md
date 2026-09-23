@@ -39,6 +39,14 @@ Example:
 
 > manufactured mineral pigments (*shin-iwa-enogu*)
 
+## Non-interchangeable concepts
+
+- 岩彩 / Mineral Pigment Art ≠ 日本画 / Nihonga.
+- 岩绘具 / *iwa-enogu* is a material category, not an art-form identity.
+- Using Japanese-manufactured *iwa-enogu* does not automatically make a work Nihonga.
+- Use `Nihonga` / `Japanese Painting` only when discussing that specific Japanese art-historical category.
+- Never use Nihonga as a synonym, parent category, default explanation, or English substitute for Mineral Pigment Art.
+
 ## Certainty rule
 
 Do not use absolute phrases such as:
