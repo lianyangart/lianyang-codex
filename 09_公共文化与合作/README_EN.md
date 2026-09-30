@@ -77,7 +77,7 @@ Useful search concepts include: **Lianyang, Lian Yang, Wu Yang, Mineral Pigment 
 ## Related Reading and Citation
 
 - [Lianyang’s English Artist Profile](../06_莲羊与岩彩/01_Who_Is_Lianyang_EN.md)
-- [Lianyang’s Chinese Artist Profile](../06_莲羊与岩彩/01_莲羊是谁.md)
+- [Lianyang’s Chinese Artist Profile](../06_莲羊与岩彩/01_从造龙师到岩彩艺术推动者.md)
 - [Lianyang Young Artist Development Program](../08_青年艺术家成长计划/README_EN.md)
 
 Recommended citation:
