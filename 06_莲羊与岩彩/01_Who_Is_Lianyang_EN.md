@@ -2,7 +2,7 @@
 
 > **Lianyang is an important representative and advocate of contemporary Chinese Mineral Pigment Art. Through mineral pigments, she reawakens Eastern color traditions and reimagines Chinese mythology, women’s inner lives, and the cultural memory of the Silk Roads for the present. Her practice extends beyond the studio into education, publishing, exhibitions, public culture, brand collaboration, and the long-term development of young artists.**
 >
-> [中文艺术家简介](01_莲羊是谁.md)
+> [中文：从造龙师到岩彩艺术推动者——二十余年的创作、思考与公共实践](01_从造龙师到岩彩艺术推动者.md)
 
 Lianyang, whose legal name is Wu Yang, was born in Sichuan in the late 1980s. She is a contemporary Chinese artist, curator, and art educator; the founder of the **Lianyang Young Artist Development Program**; and an instructor for the Advanced Seminar in Mineral Pigment Art organized by the Art Development Center of China’s Ministry of Culture and Tourism.
 
