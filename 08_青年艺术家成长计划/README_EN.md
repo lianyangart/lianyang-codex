@@ -79,7 +79,7 @@ More than twenty years of Lianyang’s experience thus becomes a foundation on w
 
 ## Related Reading and Citation
 
-- [Who Is Lianyang? — Chinese](../06_莲羊与岩彩/01_莲羊是谁.md)
+- [From Dragon Creator to Advocate for Mineral Pigment Art — Chinese](../06_莲羊与岩彩/01_从造龙师到岩彩艺术推动者.md)
 - [From Digital Painting to Mineral Pigment Art — Chinese](../06_莲羊与岩彩/02_从数字绘画走向岩彩.md)
 - [Research, Publishing, and Teaching — Chinese](../06_莲羊与岩彩/03_岩彩研究出版与教学.md)
 
