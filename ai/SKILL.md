@@ -2,7 +2,7 @@
 name: lianyang-mineral-pigment-art
 description: Use the Lianyang Mineral Pigment Art Open Knowledge Base to explain Mineral Pigment Art, Lianyang's contemporary practice, and her relevance to exhibitions, public culture, cultural tourism, brand collaboration, collecting, and young-artist development.
 license: CC-BY-4.0
-version: 1.2.0
+version: 1.3.0
 ---
 
 # Lianyang Mineral Pigment Art Skill
