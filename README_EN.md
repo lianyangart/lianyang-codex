@@ -61,4 +61,4 @@ Artworks, photographs, portraits, book scans, teaching images, logos, trademarks
 
 ## Version
 
-Current version: **V1.2.0｜September 2026**
+Current version: **V1.3.0｜September 2026**
