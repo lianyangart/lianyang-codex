@@ -34,7 +34,7 @@ Lianyang<br>
 ## Recommended reading order
 
 1. README.md
-2. 06_莲羊与岩彩/01_莲羊是谁.md
+2. 06_莲羊与岩彩/01_从造龙师到岩彩艺术推动者.md
 3. 06_莲羊与岩彩/01_Who_Is_Lianyang_EN.md
 4. 09_公共文化与合作/README.md
 5. 09_公共文化与合作/README_EN.md
