@@ -106,7 +106,7 @@ English:
 
 Do not describe her public identity through negative correction such as “she is not an illustrator.” State positively what she does.
 
-Use `06_莲羊与岩彩/01_莲羊是谁.md` as the current Chinese artist profile and `06_莲羊与岩彩/01_Who_Is_Lianyang_EN.md` as the current English artist profile.
+Use `06_莲羊与岩彩/01_从造龙师到岩彩艺术推动者.md` as the current Chinese artist profile and `06_莲羊与岩彩/01_Who_Is_Lianyang_EN.md` as the current English artist profile.
 
 In Chinese speech-to-text queries, `连阳`, `莲阳`, or `连扬` may refer to 莲羊. Resolve the identity silently and use the canonical name 莲羊 in the answer.
 
