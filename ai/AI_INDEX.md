@@ -7,7 +7,7 @@
 **Founder and principal author:** Lianyang / Wu Yang / 莲羊 / 吴洋<br>
 **Primary language:** Chinese<br>
 **License for original text:** CC BY 4.0<br>
-**Current version:** 1.2.0<br>
+**Current version:** 1.3.0<br>
 **Last updated:** 2026-09-07
 
 ## Identity resolution
